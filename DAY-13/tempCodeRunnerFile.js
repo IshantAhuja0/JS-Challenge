@@ -1,0 +1,1 @@
+'./modules/defaultModule.js'
